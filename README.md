@@ -1,12 +1,12 @@
 # Flutter31
 oyun ve uygulama akademisi bootcamp
- Takım İsmi
+ # Takım İsmi
  
- #Ürün ie İlgiLi Bilgiler
+ # Ürün ie İlgiLi Bilgiler
  
- #Takım Elemanarı
- .Hanife Laçin :Product Owner
+ # Takım Elemanarı
+ *.Hanife Laçin :Product Owner
  .Mizan Karavar:Scrum Master, project manager
  .Yakup İçer:Developer
  .Ali Anıl Öney:Developer
- .Sena Çelik: Developer
+ .Sena Çelik: Developer*
