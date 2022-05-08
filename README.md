@@ -20,13 +20,13 @@ oyun ve uygulama akademisi bootcamp
 
 
 # Ürün Özellikleri
--Diyetisyenler için uygun danışanları bulma
--Danışanlar için uygun diyetisyenleri bulma
--Danışan ve Diyetisyeni uygulama üzerinde bir araya getirerek diyet takibi sürecini iyieştirmek artırmak
--Danışan indeksini hesaplama 
+- Diyetisyenler için uygun danışanları bulma
+- Danışanlar için uygun diyetisyenleri bulma
+- Danışan ve Diyetisyeni uygulama üzerinde bir araya getirerek diyet takibi sürecini iyieştirmek artırmak
+- Danışan indeksini hesaplama 
 # Hedef Kitle
--Hayatında belirli bir beslenme şekli benimsemek isteyen bireyler
--Sağlık amacıyla kilo vermek ve takibini işin uzmanıyla beraber sağlamak isteyenler
+- Hayatında belirli bir beslenme şekli benimsemek isteyen bireyler
+- Sağlık amacıyla kilo vermek ve takibini işin uzmanıyla beraber sağlamak isteyenler
 # Product Backlog URL
 https://miro.com/app/board/uXjVO40iLUQ=/
 # Sprint 1
