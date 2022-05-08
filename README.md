@@ -44,6 +44,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 -Daily Scrum toplantıları zamansal sebeplerden ve bildirimlerin düzeni takibi kolay olsun diye watsapp üzerinden mesajlaşma şeklinde yapılmaktadır.Daily scrum  toplantısı özetleri word dosyasında toplanmaktadır.
 ## Sprint board update: 
 -Sprint board screenshotları
+![Ekran Görüntüsü (245)](https://user-images.githubusercontent.com/79444272/167306979-01727024-f496-4c73-b7b8-69ee3a25497b.png)
+
+
 
 
 
