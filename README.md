@@ -90,9 +90,10 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ## Sprint Review:
 -Alınan  kararlar: veri tabanı oluşturmaya 2. sprintin başlangıcıyla başlanacak ve 2. sprintte tamamlanacak. aynı zamanda eş zamanlı olarak arayüzler oluşturmaya paşlanacak 2. sprint sonunda basit bir uygulama açığa çıkacak.Diyetisyenlerle olan topantıdan yeni özellik eklenebiir. ilerde uygulama içi renkler güncellenebilir.
 ## Sprint Retrospective:
--- Takım içi görev dağılımı ile ilgili düzenleme kararı alındı.
--- tahmin puanları product owner ve developer ile ortak karar verilmesine karar verildi
--- takım üyelerini saat ve efor miktarının artırılmasına karar verildi
--- görev dağılımlarını tam anlaşılabilmesi amacıyla sprint başlarında project manager ile  her üyenin bireysel olarak zoom üzerinden toplantı yapması kararlaştırıldı
+- Takım içi görev dağılımı ile ilgili düzenleme kararı alındı.
+- tahmin puanları product owner ve developer ile ortak karar verilmesine karar verildi
+- takım üyelerini saat ve efor miktarının artırılmasına karar verildi
+- görev dağılımlarını tam anlaşılabilmesi amacıyla sprint başlarında project manager ile  her üyenin bireysel olarak zoom üzerinden toplantı yapması kararlaştırıldı
+- kod olarak yazılan her parça foksiyon  brachlenmeden önce product owner tarafından kontrol edilecek
 # Diğer Notlar:
 - yakup içer ve ali anı öney tarfından geliştirilecek arayüzler ve akış için uygulama içindeki algoritmanın belirlenmesi için  proje yöneticisinin de bulunduğu bir ayrı watsapp grubu kuruldu her ilerlemeden ve fikirden sonra product owner ile kısa toplantılar yapılıp onaylanacak . Ayrıca her cumartesi ve çarşamba ekip ortak toplantı alacağı kararlaştırıldı
