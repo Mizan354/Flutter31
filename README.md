@@ -95,5 +95,5 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - takım üyelerini saat ve efor miktarının artırılmasına karar verildi
 - görev dağılımlarını tam anlaşılabilmesi amacıyla sprint başlarında project manager ile  her üyenin bireysel olarak zoom üzerinden toplantı yapması kararlaştırıldı
 - kod olarak yazılan her parça foksiyon  brachlenmeden önce product owner tarafından kontrol edilecek
-# Diğer Notlar:
+## Diğer Notlar:
 - yakup içer ve ali anı öney tarfından geliştirilecek arayüzler ve akış için uygulama içindeki algoritmanın belirlenmesi için  proje yöneticisinin de bulunduğu bir ayrı watsapp grubu kuruldu her ilerlemeden ve fikirden sonra product owner ile kısa toplantılar yapılıp onaylanacak . Ayrıca her cumartesi ve çarşamba ekip ortak toplantı alacağı kararlaştırıldı
