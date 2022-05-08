@@ -29,3 +29,10 @@ oyun ve uygulama akademisi bootcamp
 # Product Backlog URL
 https://miro.com/app/board/uXjVO40iLUQ=/
 # Sprint 1
+ # sprint Notları : 
+- Kullanıcı araştırması yapıldı, mevcut problem hakkında  çıkarmış en iyi 10 uygulama incelendi bizim çıkaracağımız uygulamada özgünlük oluşturmak ve daha spesifik problem çözebilmek amacıyla ana sorundan bir yan dal sorun belirlenerek üzerine gidildi ve hedef kitle belirlendi. ürün fikri tam olarak belirlendi uygulama içinde işleyişin ve arayüz akışı yani algoritması taslak olarak çizimi yapıldı ve ilk görev atamaları yapıldı.
+# Sprint içinde tamamlanması tahmin edilen puan:
+100 puan
+
+# Puan tamamlama mantığı: 
+-Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
