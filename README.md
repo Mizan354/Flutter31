@@ -36,3 +36,63 @@ https://miro.com/app/board/uXjVO40iLUQ=/
 
 ## Puan tamamlama mantığı: 
 - Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+## Backlog düzeni ve Story seçimleri:
+-Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+## Daily Scrum:
+-Daily Scrum toplantıları zamansal sebeplerden ve bildirimlerin düzeni takibi kolay olsun diye watsapp üzerinden mesajlaşma şeklinde yapılmaktadır.Daily scrum  toplantısı özetleri word dosyasında toplanmaktadır.
+## Sprint board update: 
+-Sprint board screenshotları
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Sprint Review:
+-Alınan  kararlar: veri tabanı oluşturmaya 2. sprintin başlangıcıyla başlanacak ve 2. sprintte tamamlanacak. aynı zamanda eş zamanlı olarak arayüzler oluşturmaya paşlanacak 2. sprint sonunda basit bir uygulama açığa çıkacak.Diyetisyenlerle olan topantıdan yeni özellik eklenebiir. ilerde uygulama içi renkler güncellenebilir.
+## Sprint Retrospective:
+-- Takım içi görev dağılımı ile ilgili düzenleme kararı alındı.
+-- tahmin puanları product owner ve developer ile ortak karar verilmesine karar verildi
+-- takım üyelerini saat ve efor miktarının artırılmasına karar verildi
+-- görev dağılımlarını tam anlaşılabilmesi amacıyla sprint başlarında project manager ile  her üyenin bireysel olarak zoom üzerinden toplantı yapması kararlaştırıldı
+# Diğer Notlar:
+- yakup içer ve ali anı öney tarfından geliştirilecek arayüzler ve akış için uygulama içindeki algoritmanın belirlenmesi için  proje yöneticisinin de bulunduğu bir ayrı watsapp grubu kuruldu her ilerlemeden ve fikirden sonra product owner ile kısa toplantılar yapılıp onaylanacak . Ayrıca her cumartesi ve çarşamba ekip ortak toplantı alacağı kararlaştırıldı
