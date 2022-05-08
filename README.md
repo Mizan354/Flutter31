@@ -12,7 +12,7 @@ oyun ve uygulama akademisi bootcamp
 # Ürün İsmi
 --DietApp--
 # Ürün Açıklaması
-- 
+- DietApp ugulamamız insanların Dünya sağlık standartlarına uygun kişiye özel beslenme programı ouşturabiecek diyetisyenlere bir araya getiriyor böylelikle konum farketmeksizin insanlar istediği diyetisyenden  dünya sağlık standartlarına uygun olarak  uzman diyetisyenlerden danışmanlık alabilecekler.  
 
 
 
