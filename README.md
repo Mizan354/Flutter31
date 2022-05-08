@@ -3,8 +3,7 @@ oyun ve uygulama akademisi bootcamp
  # Takım İsmi
   -Oneness
  # Ürün ie İlgiLi Bilgiler
- 
- # Takım Elemanarı
+  # Takım Elemanarı
  - Hanife Laçin :Product Owner
  - Mizan Karavar:Scrum Master, project manager
  - Yakup İçer:Developer
