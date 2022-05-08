@@ -2,9 +2,9 @@
 oyun ve uygulama akademisi bootcamp
  Takım İsmi
  
- Ürün ie İlgii Bilgiler
+ #Ürün ie İlgiLi Bilgiler
  
- Takım Elemanarı
+ #Takım Elemanarı
  .Hanife Laçin :Product Owner
  .Mizan Karavar:Scrum Master, project manager
  .Yakup İçer:Developer
