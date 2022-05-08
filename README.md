@@ -52,7 +52,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 
 ## Sprint Review:
--Alınan  kararlar: veri tabanı oluşturmaya 2. sprintin başlangıcıyla başlanacak ve 2. sprintte tamamlanacak. aynı zamanda eş zamanlı olarak arayüzler oluşturmaya paşlanacak 2. sprint sonunda basit bir uygulama açığa çıkacak.Diyetisyenlerle olan topantıdan sonra  yeni özellik eklenebilir ve mevcut özelikler güncellenebilir. ilerde uygulama içi renkler güncellenebilir.
+- Alınan  kararlar: veri tabanı oluşturmaya 2. sprintin başlangıcıyla başlanacak ve 2. sprintte tamamlanacak. aynı zamanda eş zamanlı olarak arayüzler oluşturmaya paşlanacak 2. sprint sonunda basit bir uygulama açığa çıkacak.Diyetisyenlerle olan topantıdan sonra  yeni özellik eklenebilir ve mevcut özelikler güncellenebilir. ilerde uygulama içi renkler güncellenebilir.
 ## Sprint Retrospective:
 - Takım içi görev dağılımı ile ilgili düzenleme kararı alındı.
 - tahmin puanları product owner ve developer ile ortak karar verilmesine karar verildi
