@@ -8,7 +8,7 @@ oyun ve uygulama akademisi bootcamp
  - Mizan Karavar:Scrum Master, project manager
  - Yakup İçer:Developer
  - Ali Anıl Öney:Developer
- - Sena Çelik: Developer
+ - Sena Demir: Developer
 # Ürün İsmi
 --DietApp--
 # Ürün Açıklaması
