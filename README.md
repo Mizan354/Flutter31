@@ -28,6 +28,8 @@ oyun ve uygulama akademisi bootcamp
 - Sağlık amacıyla kilo vermek ve takibini işin uzmanıyla beraber sağlamak isteyenler
 # Product Backlog URL
 https://miro.com/app/board/uXjVO40iLUQ=/
+# Daily scrum notarı
+https://docs.google.com/document/d/1Q5zIOqnXNZQ6eXiD52XWeJK3_SpfJCACvOtoobUuu4s/edit?usp=sharing
 # Sprint 1
  # Sprint Notları : 
 - Kullanıcı araştırması yapıldı, mevcut problem hakkında  çıkarmış en iyi 10 uygulama incelendi bizim çıkaracağımız uygulamada özgünlük oluşturmak ve daha spesifik problem çözebilmek amacıyla ana sorundan bir yan dal sorun belirlenerek üzerine gidildi ve hedef kitle belirlendi. ürün fikri tam olarak belirlendi uygulama içinde işleyişin ve arayüz akışı yani algoritması taslak olarak çizimi yapıldı ve ilk görev atamaları yapıldı.
