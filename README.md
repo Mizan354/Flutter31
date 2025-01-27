@@ -1,4 +1,4 @@
-# Flutter31
+# Flutter
 oyun ve uygulama akademisi bootcamp
  # Takım İsmi
   -Oneness
